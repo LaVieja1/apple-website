@@ -122,3 +122,11 @@ canvas {
     @apply opacity-0 translate-y-[100px];
   }
 }
+
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray rounded-3xl;
+}
