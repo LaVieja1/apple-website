@@ -5,6 +5,7 @@ Web intentando imitar las típicas páginas de Apple. Para practicar el uso de T
 ## Stack
 
 - React
+- JavaScript
 - Three.js
 - GSAP
 - Tailwind CSS
